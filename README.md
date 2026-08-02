@@ -114,10 +114,10 @@ Building scalable cloud infrastructure, automating deployments, and delivering r
 
 # 🏆 Certifications
 
-- ✅ AWS Certified Cloud Practitioner
-- ✅ AWS re/Start Graduate
-- ✅ AWS Fundamentals Specialization
-- ✅ Architecting with Google Compute Engine
+- ✅ **[AWS Certified: Cloud Practitioner](https://www.credly.com/badges/98c1c1d0-156d-47d3-ad80-61a7a04eada3/public_url)**
+- ✅ **[AWS re/Start Graduate](https://www.credly.com/badges/fa46786b-5593-4f7f-96ba-bac38a896994/public_url)**
+- ✅ **[AWS Fundamentals Specialization](https://coursera.org/share/a27549fd51833995ee8f868fcac89cbe)**
+- ✅ **[Architecting with Google Compute Engine](https://coursera.org/share/453b384485d2e5885fb7ad607df89c18)**
 
 ---
 
