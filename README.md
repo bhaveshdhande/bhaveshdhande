@@ -16,8 +16,6 @@ Building scalable cloud infrastructure, automating deployments, and delivering r
   <a href="https://komarev.com/ghpvc/?username=bhaveshdhande">
     <img src="https://komarev.com/ghpvc/?username=bhaveshdhande&style=flat-square&color=blue" />
   </a>
-  <img src="https://img.shields.io/github/followers/bhaveshdhande?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/bhaveshdhande?style=flat-square" />
 </p>
 
 ---
