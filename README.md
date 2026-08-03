@@ -31,82 +31,302 @@ Building scalable cloud infrastructure, automating deployments, and delivering r
 
 ---
 
-# 🛠️ Tech Stack & Tools
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<table cellpadding="50" cellspacing="25">
+<tr>
+
+<td valign="top" width="33%" align="center">
 
 ### ☁️ Cloud Platforms
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+<p>
+
+<span style="display:inline-block; text-align:center; margin:8px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35" title="AWS" alt="AWS"/>
+<br/><sub>AWS</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:8px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="35" title="Azure" alt="Azure"/>
+<br/><sub>Azure</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:8px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="35" title="Google Cloud" alt="Google Cloud"/>
+<br/><sub>Google Cloud</sub>
+</span>
+
+</p>
+
+</td>
+
+<td valign="top" width="33%" align="center">
 
 ### 🚀 CI/CD & GitOps
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Docker Scout](https://img.shields.io/badge/Docker_Scout-2496ED?style=flat-square&logo=docker&logoColor=white)
+<p>
+
+<span style="display:inline-block; text-align:center; margin:8px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="35" title="Jenkins"/>
+<br/><sub>Jenkins</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:8px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="35" title="GitHub Actions"/>
+<br/><sub>GitHub Actions</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:8px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="35" title="GitLab CI/CD"/>
+<br/><sub>GitLab CI/CD</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:8px;">
+<img src="https://cdn.simpleicons.org/argo/EF7B4D" width="35" title="Argo CD"/>
+<br/><sub>Argo CD</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:8px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/sonarqube.svg" width="35" title="SonarQube"/>
+<br/><sub>SonarQube</sub>
+</span>
+
+</p>
+
+</td>
+
+<td valign="top" width="33%" align="center">
 
 ### 📦 Containers & Orchestration
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+<p>
 
-### ⚙️ Infrastructure as Code and Configuration Management
+<span style="display:inline-block; text-align:center; margin:8px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" title="Docker" alt="Docker"/>
+<br/><sub>Docker</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:8px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="35" title="Kubernetes" alt="Kubernetes"/>
+<br/><sub>Kubernetes</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:8px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="35" title="Helm" alt="Helm"/>
+<br/><sub>Helm</sub>
+</span>
 
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+</p>
 
-### 💻 Operating Systems & Scripting
+</td>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
+</tr>
+<tr>
+
+<td valign="top" align="center">
+
+### ⚙️ IaC & Automation
+
+<p style="white-space: nowrap;">
+
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="35" title="Terraform" alt="Terraform"/>
+  <br/>
+  <sub>Terraform</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="35" title="Ansible" alt="Ansible"/>
+  <br/>
+  <sub>Ansible</sub>
+</span>
+
+</p>
+
+</td>
+
+<td valign="top" align="center">
+
+### 💻 OS & Scripting
+
+<p style="white-space: nowrap;">
+
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" title="Linux" alt="Linux"/>
+  <br/>
+  <sub>Linux</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="35" title="Bash" alt="Bash"/>
+  <br/>
+  <sub>Bash</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.simpleicons.org/yaml/CB171E" width="35" title="YAML" alt="YAML"/>
+  <br/>
+  <sub>YAML</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="35" title="Groovy" alt="Groovy"/>
+  <br/>
+  <sub>Groovy</sub>
+</span>
+
+</p>
+
+</td>
+
+<td valign="top" align="center">
 
 ### 📂 Version Control
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+<p style="white-space: nowrap;">
 
-### 🔍 Code Quality & Security
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" title="Git" alt="Git"/>
+  <br/>
+  <sub>Git</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" title="GitHub" alt="GitHub"/>
+  <br/>
+  <sub>GitHub</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="35" title="GitLab" alt="GitLab"/>
+  <br/>
+  <sub>GitLab</sub>
+</span>
 
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Docker Scout](https://img.shields.io/badge/Docker_Scout-2496ED?style=flat-square&logo=docker&logoColor=white)
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top" align="center">
 
 ### 📊 Monitoring & Logging
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+<p style="white-space: nowrap;">
 
-### 🌐 Web Servers & Application Servers
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="35" title="Prometheus" alt="Prometheus"/>
+  <br/>
+  <sub>Prometheus</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="35" title="Grafana" alt="Grafana"/>
+  <br/>
+  <sub>Grafana</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.simpleicons.org/grafana/F46800" width="35" title="Loki" alt="Loki"/>
+  <br/>
+  <sub>Loki</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.simpleicons.org/sentry/362D59" width="35" title="Sentry" alt="Sentry"/>
+  <br/>
+  <sub>Sentry</sub>
+</span>
 
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache_HTTP_Server-D22128?style=flat-square&logo=apache&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
-![IIS](https://img.shields.io/badge/Microsoft_IIS-0078D7?style=flat-square&logo=windows&logoColor=white)
+</p>
+
+</td>
+
+<td valign="top" align="center">
+
+### 🌐 Servers
+
+<p style="white-space: nowrap;">
+
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="35" title="Nginx" alt="Nginx"/>
+  <br/>
+  <sub>Nginx</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="35" title="Apache HTTP Server" alt="Apache"/>
+  <br/>
+  <sub>Apache</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="35" title="Apache Tomcat" alt="Tomcat"/>
+  <br/>
+  <sub>Tomcat</sub>
+</span>
+
+</p>
+
+</td>
+
+<td valign="top" align="center">
 
 ### 🗄️ Databases & Search
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+<p style="white-space: nowrap;">
 
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" title="PostgreSQL" alt="PostgreSQL"/>
+  <br/>
+  <sub>PostgreSQL</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" title="MySQL" alt="MySQL"/>
+  <br/>
+  <sub>MySQL</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" title="MongoDB" alt="MongoDB"/>
+  <br/>
+  <sub>MongoDB</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="35" title="Redis" alt="Redis"/>
+  <br/>
+  <sub>Redis</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="35" title="Elasticsearch" alt="Elasticsearch"/>
+  <br/>
+  <sub>Elasticsearch</sub>
+</span>
+
+</p>
+
+</td>
+
+<tr>
+
+<td colspan="3" align="center">
 
 ### 🔧 Other Tools
 
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+<p style="white-space: nowrap;">
+
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="35" title="Apache Maven" alt="Maven"/>
+  <br/>
+  <sub>Maven</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="35" title="RabbitMQ" alt="RabbitMQ"/>
+  <br/>
+  <sub>RabbitMQ</sub>
+</span>
+<span style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" width="35" title="Kibana" alt="Kibana"/>
+  <br/>
+  <sub>Kibana</sub>
+</span>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
 
 ---
 
