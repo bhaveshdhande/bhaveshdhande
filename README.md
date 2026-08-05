@@ -33,299 +33,70 @@ Building scalable cloud infrastructure, automating deployments, and delivering r
 
 # 🛠️ Tech Stack
 
-<div align="center">
 
-<table cellpadding="50" cellspacing="25">
-<tr>
-
-<td valign="top" width="33%" align="center">
-
-### ☁️ Cloud Platforms
-
-<p>
-
-<span style="display:inline-block; text-align:center; margin:8px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35" title="AWS" alt="AWS"/>
-<br/><sub>AWS</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:8px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="35" title="Azure" alt="Azure"/>
-<br/><sub>Azure</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:8px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="35" title="Google Cloud" alt="Google Cloud"/>
-<br/><sub>Google Cloud</sub>
-</span>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>☁️ Cloud Platforms</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>🚀 CI/CD & GitOps</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>📦 Containers & Orchestration</b>
 </p>
 
-</td>
-
-<td valign="top" width="33%" align="center">
-
-### 🚀 CI/CD & GitOps
-
-<p>
-
-<span style="display:inline-block; text-align:center; margin:8px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="35" title="Jenkins"/>
-<br/><sub>Jenkins</sub>
+<span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab" />
+<img src="https://cdn.simpleicons.org/argo/EF7B4D" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="48" height="48" alt="SonarQube">
+</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+<img src="https://cdn.simpleicons.org/helm/0F1689" width="48" height="48" />
 </span>
-<span style="display:inline-block; text-align:center; margin:8px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="35" title="GitHub Actions"/>
-<br/><sub>GitHub Actions</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:8px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="35" title="GitLab CI/CD"/>
-<br/><sub>GitLab CI/CD</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:8px;">
-<img src="https://cdn.simpleicons.org/argo/EF7B4D" width="35" title="Argo CD"/>
-<br/><sub>Argo CD</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:8px;">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/sonarqube.svg" width="35" title="SonarQube"/>
-<br/><sub>SonarQube</sub>
-</span>
-
 </p>
 
-</td>
+<br>
 
-<td valign="top" width="33%" align="center">
-
-### 📦 Containers & Orchestration
-
-<p>
-
-<span style="display:inline-block; text-align:center; margin:8px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" title="Docker" alt="Docker"/>
-<br/><sub>Docker</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:8px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="35" title="Kubernetes" alt="Kubernetes"/>
-<br/><sub>Kubernetes</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:8px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="35" title="Helm" alt="Helm"/>
-<br/><sub>Helm</sub>
-</span>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>⚙️ IaC & Automation</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>🌐 Servers</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>📂 Version Control</b>
 </p>
 
-</td>
 
-</tr>
-<tr>
-
-<td valign="top" align="center">
-
-### ⚙️ IaC & Automation
-
-<p style="white-space: nowrap;">
-
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="35" title="Terraform" alt="Terraform"/>
-  <br/>
-  <sub>Terraform</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="35" title="Ansible" alt="Ansible"/>
-  <br/>
-  <sub>Ansible</sub>
-</span>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=terraform,ansible" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nginx" />
+<img src="https://cdn.simpleicons.org/apache/D22128" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" width="48" height="48" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
 </p>
 
-</td>
+<br>
 
-<td valign="top" align="center">
-
-### 💻 OS & Scripting
-
-<p style="white-space: nowrap;">
-
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" title="Linux" alt="Linux"/>
-  <br/>
-  <sub>Linux</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="35" title="Bash" alt="Bash"/>
-  <br/>
-  <sub>Bash</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.simpleicons.org/yaml/CB171E" width="35" title="YAML" alt="YAML"/>
-  <br/>
-  <sub>YAML</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="35" title="Groovy" alt="Groovy"/>
-  <br/>
-  <sub>Groovy</sub>
-</span>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>📊 Monitoring & Logging</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>🗄️ Databases & Search</b>
 </p>
 
-</td>
 
-<td valign="top" align="center">
 
-### 📂 Version Control
-
-<p style="white-space: nowrap;">
-
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" title="Git" alt="Git"/>
-  <br/>
-  <sub>Git</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" title="GitHub" alt="GitHub"/>
-  <br/>
-  <sub>GitHub</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="35" title="GitLab" alt="GitLab"/>
-  <br/>
-  <sub>GitLab</sub>
-</span>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=prometheus,grafana,sentry" />
+<img src="https://cdn.simpleicons.org/grafana/F46800" width="48" height="48" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+<img src="https://cdn.simpleicons.org/elasticsearch/005571" width="48" height="48" />
 </p>
 
-</td>
+<br>
 
-</tr>
-
-<tr>
-
-<td valign="top" align="center">
-
-### 📊 Monitoring & Logging
-
-<p style="white-space: nowrap;">
-
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="35" title="Prometheus" alt="Prometheus"/>
-  <br/>
-  <sub>Prometheus</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="35" title="Grafana" alt="Grafana"/>
-  <br/>
-  <sub>Grafana</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.simpleicons.org/grafana/F46800" width="35" title="Loki" alt="Loki"/>
-  <br/>
-  <sub>Loki</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.simpleicons.org/sentry/362D59" width="35" title="Sentry" alt="Sentry"/>
-  <br/>
-  <sub>Sentry</sub>
-</span>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>💻 OS & Scripting</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>🔧 Other Tools</b>
 </p>
 
-</td>
-
-<td valign="top" align="center">
-
-### 🌐 Servers
-
-<p style="white-space: nowrap;">
-
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="35" title="Nginx" alt="Nginx"/>
-  <br/>
-  <sub>Nginx</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="35" title="Apache HTTP Server" alt="Apache"/>
-  <br/>
-  <sub>Apache</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="35" title="Apache Tomcat" alt="Tomcat"/>
-  <br/>
-  <sub>Tomcat</sub>
-</span>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=linux,bash" />
+<img src="https://cdn.simpleicons.org/yaml/CB171E" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/apachegroovy/4298B8" width="48" height="48" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=maven,rabbitmq" />
+<img src="https://cdn.simpleicons.org/kibana/005571" width="48" height="48" />
 </p>
-
-</td>
-
-<td valign="top" align="center">
-
-### 🗄️ Databases & Search
-
-<p style="white-space: nowrap;">
-
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" title="PostgreSQL" alt="PostgreSQL"/>
-  <br/>
-  <sub>PostgreSQL</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" title="MySQL" alt="MySQL"/>
-  <br/>
-  <sub>MySQL</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" title="MongoDB" alt="MongoDB"/>
-  <br/>
-  <sub>MongoDB</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="35" title="Redis" alt="Redis"/>
-  <br/>
-  <sub>Redis</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="35" title="Elasticsearch" alt="Elasticsearch"/>
-  <br/>
-  <sub>Elasticsearch</sub>
-</span>
-
-</p>
-
-</td>
-
-<tr>
-
-<td colspan="3" align="center">
-
-### 🔧 Other Tools
-
-<p style="white-space: nowrap;">
-
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="35" title="Apache Maven" alt="Maven"/>
-  <br/>
-  <sub>Maven</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="35" title="RabbitMQ" alt="RabbitMQ"/>
-  <br/>
-  <sub>RabbitMQ</sub>
-</span>
-<span style="display:inline-block; text-align:center; margin:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" width="35" title="Kibana" alt="Kibana"/>
-  <br/>
-  <sub>Kibana</sub>
-</span>
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
 
 
 ---
