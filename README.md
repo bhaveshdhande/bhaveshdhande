@@ -46,7 +46,7 @@ Building scalable cloud infrastructure, automating deployments, and delivering r
 <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab" />
 <img src="https://cdn.simpleicons.org/argo/EF7B4D" width="48" height="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="48" height="48" alt="SonarQube">
-</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 <img src="https://cdn.simpleicons.org/helm/0F1689" width="48" height="48" />
