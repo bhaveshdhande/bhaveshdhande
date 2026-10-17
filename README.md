@@ -22,7 +22,7 @@ Building scalable cloud infrastructure, automating deployments, and delivering r
 
 # 👨‍💻 About Me
 
-- 💼 Cloud DevOps Engineer with **2.6+ years** of experience
+- 💼 Cloud DevOps Engineer with **3 years** of experience
 - ☁️ Experienced across multi-cloud **AWS, Azure & Google Cloud Platform**
 - 🚀 Passionate about **containerization and orchestration, Infrastructure as code (IaC) DevSecOps & GitOps**
 - ⚙️ Love building scalable cloud infrastructure and secure CI/CD pipelines.
